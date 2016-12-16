@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "лекция 4 зад 2", "лекция 4 зад 2\лекция 4 зад 2.csproj", "{352A00C2-788E-4D08-99AC-69771D024A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{352A00C2-788E-4D08-99AC-69771D024A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352A00C2-788E-4D08-99AC-69771D024A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352A00C2-788E-4D08-99AC-69771D024A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352A00C2-788E-4D08-99AC-69771D024A99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
